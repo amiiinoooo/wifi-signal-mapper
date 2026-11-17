@@ -1,0 +1,6 @@
+Kitchen,0,0,20,60
+Living room,20,0,80,30
+Pc room,20,30,15,30
+Room A,35,30,20,30
+Room N,55,30,20,30
+Room P,75,30,25,30
